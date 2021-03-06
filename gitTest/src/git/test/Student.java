@@ -10,7 +10,7 @@ public class Student {
 		return name;
 	}
 	
-	
+	//constructor
 	
 	public Student (int id, String name) {
 		this.id = id;
