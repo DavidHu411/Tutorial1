@@ -2,15 +2,17 @@ package git.test;
 
 public class Student {
 	int id;
-	int name;
+	String name;
 	public int getid() {
 		return id;
 	}
-	public int getName() {
+	public String getName() {
 		return name;
 	}
 	
-	public Student (int id, int name) {
+	//penis
+	
+	public Student (int id, String name) {
 		this.id = id;
 		this.name = name;
 	}
